@@ -1,0 +1,18 @@
+[theme]
+primaryColor="#1EA47E"
+backgroundColor="#F6F6F6"
+secondaryBackgroundColor="#FFFFFF"
+textColor="#161D27"
+font="sans-serif"
+headingFont = "sans-serif"
+codeFont = "monospace"
+baseFontSize = 12
+baseRadius = "full"
+borderColor = 'Olive'
+showWidgetBorder = true
+dataframeBorderColor = "Violet"
+
+
+[theme.sidebar]
+primaryColor = "Violet"
+#showSidebarBorder = true
